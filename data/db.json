@@ -1,0 +1,62 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ifeanyi",
+            "job": "Programming",
+            "sex": "Male",
+            "noOfChildren": 4,
+            "noOfDependentRelatives": 3
+        },
+        {
+            "id": 2,
+            "name": "Favor",
+            "job": "Flight Dispatcher",
+            "sex": "Female",
+            "noOfChildren": 3,
+            "noOfDependentRelatives": 1
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Maxwell",
+            "lastName": "Edward",
+            "job": "Software Developer",
+            "sex": "Male",
+            "income": 4000000,
+            "noOfChildren": 1,
+            "noOfDependentRelatives": 1
+        },
+        {
+            "id": 2,
+            "firstName": "June",
+            "lastName": "Elion",
+            "job": "Fashion Designer",
+            "sex": "Female",
+            "income": 3300000,
+            "noOfChildren": 3,
+            "noOfDependentRelatives": 3
+        },
+        {
+            "id": 3,
+            "firstName": "Duru",
+            "lastName": "Okilo",
+            "job": "System Engineer",
+            "sex": "Male",
+            "income": 5200000,
+            "noOfChildren": 4,
+            "noOfDependentRelatives": 3
+        },
+        {
+            "id": 4,
+            "firstName": "Juliet",
+            "lastName": "Samuel",
+            "job": "Machine Learning Engineer",
+            "sex": "Female",
+            "income": 4000000,
+            "noOfChildren": 4,
+            "noOfDependentRelatives": 2
+        }
+    ]
+}
